@@ -8,6 +8,7 @@ const answer = Math.floor(Math.random()*100) + 1
 let noOfguesses = 0 
 let guessedNumbers = [] 
 
+// projeto muito simples, refazer do zero e aprender a lição das declarações de variáveis
 
 function play() {
     const userGuess = document.getElementById('guess').value
