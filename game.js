@@ -9,7 +9,7 @@ let noOfguesses = 0
 let guessedNumbers = [] 
 
 // projeto muito simples, refazer do zero e aprender a lição das declarações de variáveis
-// foi muito interessante!
+// foi muito interessante!!!!
 
 function play() {
     const userGuess = document.getElementById('guess').value
